@@ -12,6 +12,21 @@
   border: 0;
   transition: filter 0.2s;
 
+  img {
+    margin-right: 8px;
+  }
+
+  &.outlined {
+    background: #FFF; 
+    border: 1px solid #835AFD;
+    color: #835AFD;
+
+    &:hover {
+      background: #835AFD; 
+      color: #FFF;
+    }
+  }
+
   &:not(:disabled):hover {
     filter: brightness(0.9);
   }

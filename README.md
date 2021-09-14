@@ -5,7 +5,7 @@ Projeto Web desenvolvido durante o NLW#Together com a Rocketseat by Diego Fernan
 
 - [x] Autenticação com Google;
 - [x] Criação de salas;
-- [x] Funcionalidade Participante: Dar like e dislike, ler as perguntas e fazer novas; 
+- [x] Funcionalidades Participantes: Dar like e dislike, ler as perguntas e fazer novas; 
 - [x] Funcionalidades Admin: Dar destaque, marcar como respondida, excluir perguntas e encerrar sala;
 - [ ] Opções de tema light/dark (em breve...);
 - [ ] Responsividade mobile (em breve...).
@@ -34,7 +34,7 @@ Sala Q&A Visitante         |  Sala Q&A Usuário Logado   | Sala Q&A Opções Adm
 :-------------------------:|:-------------------------: |:-------------------------:
 ![](https://github.com/jfernandesdev/letmeask/blob/07ed2d4f2ecea8a772db83fa4d10df7fe5f85904/public/layout/sala-de-perguntas-visitante.png)  | ![](https://github.com/jfernandesdev/letmeask/blob/07ed2d4f2ecea8a772db83fa4d10df7fe5f85904/public/layout/sala-de-perguntas-user-logado.png) | ![](https://github.com/jfernandesdev/letmeask/blob/07ed2d4f2ecea8a772db83fa4d10df7fe5f85904/public/layout/pergunta-em-destaque.png) 
 
-### Mobile screenshot:
+### Mobile:
 
 Em breve...
 
@@ -44,4 +44,4 @@ Em breve ...
 
 <br>
 
-<img src="https://lh3.googleusercontent.com/W2NiM7sAy899f5dpfxQ_xwut9YGQS6Nd4fCZ31FX5cAfJenSYdLBpLvtN9_-sue_wHkNKB_OzQ42KRG66Y5G=w1366-h625-rw" width='300px'>
+<img src="https://i.ibb.co/n1SbQZw/w-signature.png" alt="w-signature" border="0" width='300px' />

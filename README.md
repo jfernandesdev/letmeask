@@ -1,7 +1,7 @@
 # Letmeask <img src='https://github.com/jfernandesdev/letmeask/blob/07ed2d4f2ecea8a772db83fa4d10df7fe5f85904/public/favicon.png' width='27px' />
 Projeto Web desenvolvido durante o NLW#Together com a Rocketseat by Diego Fernandes. TEMA: Sala de Q&A: "Toda pergunta tem uma resposta". 💬
 
-### Funcionalidades:
+### Descrição:
 
 - [x] Autenticação com Google;
 - [x] Criação de salas;
